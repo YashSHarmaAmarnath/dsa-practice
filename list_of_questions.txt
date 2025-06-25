@@ -3,3 +3,4 @@
 3. All Paths From Source to Target
 4. Number of Provinces
 5. Find Center of Star Graph
+6. Koko Eating Bananas
