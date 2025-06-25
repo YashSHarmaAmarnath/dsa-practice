@@ -6,3 +6,5 @@
 6. Koko Eating Bananas
 7. Minimum Number of Operations to Move All Balls to Each Box
 8. Redundant Connection
+9. K Closest Points to Origin
+
