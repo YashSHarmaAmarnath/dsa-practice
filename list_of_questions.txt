@@ -9,4 +9,5 @@
 9. K Closest Points to Origin
 10.Longest Binary Subsequence Less Than or Equal to K
 11.Food Cost [Code Chef]
+12.Max Sixers[Code Chef]
 
