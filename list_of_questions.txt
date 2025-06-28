@@ -16,3 +16,4 @@
 16.Min Cost Climbing Stairs
 17.Longest Common Subsequence
 18.Find Subsequence of Length K With the Largest Sum
+19. Network Delay Time
