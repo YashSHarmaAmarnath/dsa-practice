@@ -6,3 +6,37 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 [CodeChef](https://www.codechef.com/users/yashasharma210)
 [HackerRank](https://www.hackerrank.com/profile/yashasharma21005)
 
+
+# Project Name
+
+## 📋 List of Questions
+
+<!-- QUESTIONS_START -->
+
+```
+1. Course Schedule
+2. Course Schedule II
+3. All Paths From Source to Target
+4. Number of Provinces
+5. Find Center of Star Graph
+6. Koko Eating Bananas
+7. Minimum Number of Operations to Move All Balls to Each Box
+8. Redundant Connection
+9. K Closest Points to Origin
+10.Longest Binary Subsequence Less Than or Equal to K
+11.Food Cost [Code Chef]
+12.Max Sixers[Code Chef]
+13.Sum to 0
+14.4Sum
+15.Unique path
+16.Min Cost Climbing Stairs
+17.Longest Common Subsequence
+18.Find Subsequence of Length K With the Largest Sum
+19.Network Delay Time
+20.Counting Bits
+21.Minimum Number of Vertices to Reach All Nodes
+22.ounting elements in two arrays [GFG]
+23.Swap Nodes in Pairs
+```
+
+<!-- QUESTIONS_END -->
