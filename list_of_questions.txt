@@ -18,3 +18,4 @@
 18.Find Subsequence of Length K With the Largest Sum
 19.Network Delay Time
 20.Counting Bits
+21.Minimum Number of Vertices to Reach All Nodes
