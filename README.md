@@ -38,6 +38,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 22.ounting elements in two arrays [GFG]
 23.Swap Nodes in Pairs
 24.Longest Harmonious Subsequence
+25.Last Stone Weight
 ```
 
 <!-- QUESTIONS_END -->

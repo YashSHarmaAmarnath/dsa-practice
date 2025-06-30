@@ -22,3 +22,4 @@
 22.ounting elements in two arrays [GFG]
 23.Swap Nodes in Pairs
 24.Longest Harmonious Subsequence
+25.Last Stone Weight
