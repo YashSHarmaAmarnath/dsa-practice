@@ -25,3 +25,4 @@
 25.Last Stone Weight
 26.Find Median from Data Stream
 27.Find the Original Typed String I
+28.Daily Temperatures
