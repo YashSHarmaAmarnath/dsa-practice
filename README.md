@@ -40,6 +40,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 24.Longest Harmonious Subsequence
 25.Last Stone Weight
 26.Find Median from Data Stream
+27.Find the Original Typed String I
 ```
 
 <!-- QUESTIONS_END -->
