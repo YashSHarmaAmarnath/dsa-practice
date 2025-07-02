@@ -42,6 +42,8 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 26.Find Median from Data Stream
 27.Find the Original Typed String I
 28.Daily Temperatures
+29.Flatten Binary Tree to Linked List
+30.Lowest Common Ancestor of a Binary Tree
 ```
 
 <!-- QUESTIONS_END -->

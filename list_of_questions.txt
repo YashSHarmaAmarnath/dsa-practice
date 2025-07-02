@@ -27,3 +27,4 @@
 27.Find the Original Typed String I
 28.Daily Temperatures
 29.Flatten Binary Tree to Linked List
+30.Lowest Common Ancestor of a Binary Tree
