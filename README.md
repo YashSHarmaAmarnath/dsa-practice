@@ -47,6 +47,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 31.Find the K-th Character in String Game I
 32.Reorder List
 33.Find Lucky Integer in an Array
+34.Subarray Sum Equals K
 ```
 
 <!-- QUESTIONS_END -->
