@@ -48,6 +48,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 32.Reorder List
 33.Find Lucky Integer in an Array
 34.Subarray Sum Equals K
+35.Finding Pairs With a Certain Sum
 ```
 
 <!-- QUESTIONS_END -->
