@@ -50,6 +50,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 34.Subarray Sum Equals K
 35.Finding Pairs With a Certain Sum
 36.Divide Two Integers
+37.Reschedule Meetings for Maximum Free Time I
 ```
 
 <!-- QUESTIONS_END -->
