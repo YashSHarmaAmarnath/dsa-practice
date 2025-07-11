@@ -51,6 +51,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 35.Finding Pairs With a Certain Sum
 36.Divide Two Integers
 37.Reschedule Meetings for Maximum Free Time I
+38.Longest Repeating Character Replacement
 ```
 
 <!-- QUESTIONS_END -->
