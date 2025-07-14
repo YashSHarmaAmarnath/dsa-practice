@@ -37,3 +37,4 @@
 37.Reschedule Meetings for Maximum Free Time I
 38.Longest Repeating Character Replacement
 39.Regular Expression Matching
+40.Convert Binary Number in a Linked List to Integer
