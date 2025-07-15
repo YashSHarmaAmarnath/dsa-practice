@@ -54,6 +54,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 38.Longest Repeating Character Replacement
 39.Regular Expression Matching
 40.Convert Binary Number in a Linked List to Integer
+41.Valid Word
 ```
 
 <!-- QUESTIONS_END -->
