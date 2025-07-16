@@ -55,6 +55,7 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 39.Regular Expression Matching
 40.Convert Binary Number in a Linked List to Integer
 41.Valid Word
+42.Find the Maximum Length of Valid Subsequence I
 ```
 
 <!-- QUESTIONS_END -->
