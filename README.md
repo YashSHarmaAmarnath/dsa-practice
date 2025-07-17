@@ -1,13 +1,18 @@
-# dsa-practice
+<h1 align="center">🚀 DSA Practice Repository 🚀</h1>
 
-This Repo is collection of DSA Question I have solved since 24-6-2025
+<p align="center">  
+This repository contains a personal collection of Data Structures and Algorithms questions I have solved since <strong>24-06-2025</strong>.
+</p>
 
-[LeetCode](https://leetcode.com/u/yashasharma21005/)
-[CodeChef](https://www.codechef.com/users/yashasharma210)
-[HackerRank](https://www.hackerrank.com/profile/yashasharma21005)
+<p align="center">
+<a href="https://leetcode.com/u/yashasharma21005/">LeetCode</a> • 
+<a href="https://www.codechef.com/users/yashasharma210">CodeChef</a> • 
+<a href="https://www.hackerrank.com/profile/yashasharma21005">HackerRank</a>
+</p>
 
+---
 
-# Project Name
+# 🛸 Project Name
 
 ## 📋 List of Questions
 
@@ -59,3 +64,6 @@ This Repo is collection of DSA Question I have solved since 24-6-2025
 ```
 
 <!-- QUESTIONS_END -->
+---
+
+<p align="center"><i>More to come... keep pushing 🚀</i></p>
