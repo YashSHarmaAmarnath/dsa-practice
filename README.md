@@ -61,6 +61,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 40.Convert Binary Number in a Linked List to Integer
 41.Valid Word
 42.Find the Maximum Length of Valid Subsequence I
+43.Remove Sub-Folders from the Filesystem
 ```
 
 <!-- QUESTIONS_END -->
