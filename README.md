@@ -63,6 +63,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 42.Find the Maximum Length of Valid Subsequence I
 43.Remove Sub-Folders from the Filesystem
 44.Implement Trie (Prefix Tree)
+45.Design Add and Search Words Data Structure
 ```
 
 <!-- QUESTIONS_END -->
