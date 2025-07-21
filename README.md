@@ -65,6 +65,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 44.Implement Trie (Prefix Tree)
 45.Design Add and Search Words Data Structure
 46.Delete Characters to Make Fancy String
+47.Maximum Product Subarray
 ```
 
 <!-- QUESTIONS_END -->
