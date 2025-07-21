@@ -64,6 +64,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 43.Remove Sub-Folders from the Filesystem
 44.Implement Trie (Prefix Tree)
 45.Design Add and Search Words Data Structure
+46.Delete Characters to Make Fancy String
 ```
 
 <!-- QUESTIONS_END -->
