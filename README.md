@@ -67,6 +67,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 46.Delete Characters to Make Fancy String
 47.Maximum Product Subarray
 48.Search in Rotated Sorted Array II
+49. Find Minimum in Rotated Sorted Array
 ```
 
 <!-- QUESTIONS_END -->
