@@ -69,6 +69,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 48.Search in Rotated Sorted Array II
 49.Find Minimum in Rotated Sorted Array
 50.Next Permutation
+51.Sort Array by Increasing Frequency
 ```
 
 <!-- QUESTIONS_END -->
