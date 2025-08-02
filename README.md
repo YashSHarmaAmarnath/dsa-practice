@@ -70,6 +70,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 49.Find Minimum in Rotated Sorted Array
 50.Next Permutation
 51.Sort Array by Increasing Frequency
+52.Design Browser History
 ```
 
 <!-- QUESTIONS_END -->
