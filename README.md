@@ -71,6 +71,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 50.Next Permutation
 51.Sort Array by Increasing Frequency
 52.Design Browser History
+53.Angle Between Hands of a Clock
 ```
 
 <!-- QUESTIONS_END -->
