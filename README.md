@@ -12,7 +12,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 
 ---
 
-# 🛸 Project Name
+# 🛸 
 
 ## 📋 List of Questions
 
