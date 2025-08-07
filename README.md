@@ -74,6 +74,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 53.Angle Between Hands of a Clock
 54.Pairs of Songs With Total Durations Divisible by 60
 55.Odd Even Linked List
+56.Sort List
 ```
 
 <!-- QUESTIONS_END -->
