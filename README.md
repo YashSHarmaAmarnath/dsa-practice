@@ -75,6 +75,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 54.Pairs of Songs With Total Durations Divisible by 60
 55.Odd Even Linked List
 56.Sort List
+57.Reordered Power of 2
 ```
 
 <!-- QUESTIONS_END -->
