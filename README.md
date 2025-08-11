@@ -76,6 +76,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 55.Odd Even Linked List
 56.Sort List
 57.Reordered Power of 2
+58.Range Product Queries of Powers
 ```
 
 <!-- QUESTIONS_END -->
