@@ -77,6 +77,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 56.Sort List
 57.Reordered Power of 2
 58.Range Product Queries of Powers
+59.Maximum 69 Number
 ```
 
 <!-- QUESTIONS_END -->
