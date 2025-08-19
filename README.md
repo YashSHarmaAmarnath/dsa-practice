@@ -78,6 +78,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 57.Reordered Power of 2
 58.Range Product Queries of Powers
 59.Maximum 69 Number
+60.Number of Zero-Filled Subarrays
 ```
 
 <!-- QUESTIONS_END -->
