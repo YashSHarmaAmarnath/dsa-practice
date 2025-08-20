@@ -79,6 +79,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 58.Range Product Queries of Powers
 59.Maximum 69 Number
 60.Number of Zero-Filled Subarrays
+61.Count Square Submatrices with All Ones
 ```
 
 <!-- QUESTIONS_END -->
