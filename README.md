@@ -82,6 +82,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 61.Count Square Submatrices with All Ones
 62.Sort Matrix by Diagonals
 63.Frog Jump [GFG]
+64.Vowel Spellchecker
 ```
 
 <!-- QUESTIONS_END -->
