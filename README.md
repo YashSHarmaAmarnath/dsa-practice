@@ -83,6 +83,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 62.Sort Matrix by Diagonals
 63.Frog Jump [GFG]
 64.Vowel Spellchecker
+65.Design a Food Rating System
 ```
 
 <!-- QUESTIONS_END -->
