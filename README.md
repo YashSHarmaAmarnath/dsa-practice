@@ -84,6 +84,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 63.Frog Jump [GFG]
 64.Vowel Spellchecker
 65.Design a Food Rating System
+66.Design Spreadsheet
 ```
 
 <!-- QUESTIONS_END -->
