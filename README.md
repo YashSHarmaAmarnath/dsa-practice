@@ -86,6 +86,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 65.Design a Food Rating System
 66.Design Spreadsheet
 67.Implement Router
+68.Partition List
 ```
 
 <!-- QUESTIONS_END -->
