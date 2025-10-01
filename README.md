@@ -19,7 +19,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 <!-- QUESTIONS_START -->
 
 ```
-1. Course Schedule
+1. Course ScheduleMatrix Block Sum
 2. Course Schedule II
 3. All Paths From Source to Target
 4. Number of Provinces
@@ -87,6 +87,7 @@ This repository contains a personal collection of Data Structures and Algorithms
 66.Design Spreadsheet
 67.Implement Router
 68.Partition List
+69.Matrix Block Sum
 ```
 
 <!-- QUESTIONS_END -->

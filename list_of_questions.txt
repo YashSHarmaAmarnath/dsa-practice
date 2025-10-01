@@ -1,4 +1,4 @@
-1. Course Schedule
+1. Course ScheduleMatrix Block Sum
 2. Course Schedule II
 3. All Paths From Source to Target
 4. Number of Provinces
@@ -66,3 +66,4 @@
 66.Design Spreadsheet
 67.Implement Router
 68.Partition List
+69.Matrix Block Sum
